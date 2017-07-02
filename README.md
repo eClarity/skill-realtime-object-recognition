@@ -2,7 +2,7 @@
 
 This skill is a proof of concept to use tensorflow and openCV to provide realtime object recognition using the default webcam as a source.  So far it's only been tested on Ubuntu, and since it's resource heavy may be laggy or not work on less powerful machines running Mycroft.
 
-Hopefully this is just a start and with optmization and further development this skill will provide a concept to create more skills around object recognition
+Hopefully this is just a start and with optimization and further development this skill will provide a concept to create more skills around object recognition
 
 ## Requirements
 - [TensorFlow 1.2](https://www.tensorflow.org/)
