@@ -17,7 +17,7 @@ If on picroft just skip the workon part and the directory will be /opt/mycroft/s
 
 ```
 cd /opt/mycroft/skills (or wherever your working skills directory is located)
-git clone 
+git clone https://github.com/eClarity/skill-realtime-object-recognition
 workon mycroft
 cd skill-realtime-object-recognition
 pip install -r requirements.txt
