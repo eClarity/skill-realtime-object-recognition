@@ -21,6 +21,7 @@ git clone
 workon mycroft
 cd skill-realtime-object-recognition
 pip install -r requirements.txt
+```
 
 ## Usage:
 * `View Objects`
