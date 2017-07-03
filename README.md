@@ -1,5 +1,7 @@
 # Realtime Object Recognition Skill
 
+A real-time object recognition skill for Mycroft AI using [Google's TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/object_detection) and [OpenCV](http://opencv.org/).
+
 This skill is a proof of concept to use tensorflow and openCV to provide realtime object recognition using the default webcam as a source.  So far it's only been tested on Ubuntu, and since it's resource heavy may be laggy or not work on less powerful machines running Mycroft.
 
 Hopefully this is just a start and with optimization and further development this skill will provide a concept to create more skills around object recognition
