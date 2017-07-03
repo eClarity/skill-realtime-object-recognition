@@ -5,6 +5,7 @@ This skill is a proof of concept to use tensorflow and openCV to provide realtim
 Hopefully this is just a start and with optimization and further development this skill will provide a concept to create more skills around object recognition
 
 ## Requirements
+- [Mycroft](https://docs.mycroft.ai/installing.and.running/installation)
 - [TensorFlow 1.2](https://www.tensorflow.org/)
 - [OpenCV 3.0](http://opencv.org/)
 
